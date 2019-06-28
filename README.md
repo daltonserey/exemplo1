@@ -1,4 +1,4 @@
-> Este repositório é apenas um exemplo criado em sala de aula como 
+> **DISCLAIMER** Este repositório é apenas um exemplo criado em sala de aula como 
 > demonstração de uso do git e do github por linha de comando. Há muito
 > material sobre git e github excelente na rede. Use este material
 > apenas para relembrar o que fizemos em sala de aula.
