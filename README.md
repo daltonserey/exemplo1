@@ -3,7 +3,7 @@
 > material sobre git e github excelente na rede. Use este material
 > apenas para relembrar o que fizemos em sala de aula.
 
-> Sugestão: leia [_o livro](https://git-scm.com/book/en/v2)_ sobre Git. É código aberto e é excelente para
+> Sugestão: leia [o livro sobre Git](https://git-scm.com/book/en/v2). É código aberto e é excelente para
 > aprender sobre o git. Sugestão 2: foque mais no git que no github. O github
 > é construído sobre o git. Entender bem o git facilitará seu entendimento
 > do GitHub.
